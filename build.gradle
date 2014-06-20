@@ -41,7 +41,7 @@ dependencies {
     compile "org.scala-lang:scala-library:$scalaVersion.$scalaMinor"
     
     compile 'com.google.guava:guava:17.+'
-    //compile 'com.google.code.findbugs:jsr305:1.3.+'
+    compile 'com.google.code.findbugs:jsr305:2.+'
     compile 'com.netflix.rxjava:rxjava-scala:0.19.+'
     compile "org.clapper:grizzled-slf4j_$scalaVersion:1.+"
     compile "org.clapper:grizzled-scala_$scalaVersion:1.+"
